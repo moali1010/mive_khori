@@ -13,6 +13,7 @@ def fruits(fruit_list):
     return res
 
 
+# example
 fruits((
     {'name': 'apple', 'shape': 'sphere', 'mass': 350, 'volume': 120},
     {'name': 'mango', 'shape': 'square', 'mass': 150, 'volume': 120},
